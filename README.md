@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 PORTFOLIO WEBSITE <a name="about-project"></a>
+# 📖 WEBPACK DEMO <a name="about-project"></a>
 
 **Project set up with weback** is a simple yet powerful webpack boilerplate which can be used as a starting point in many different projects.
 
