@@ -74,14 +74,14 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 + cd my-folder
-git clone https://github.com/DebyGrey/awesome-books-website
+git clone https://github.com/DebyGrey/webpack-demo
 
 
 ### Install
 
 To install this project run this into your terminal:
 
-+ git clone https://github.com/DebyGrey/awesome-books-website
++ git clone https://github.com/DebyGrey/webpack-demo
 + run npm install to install all dependecies
 
 
